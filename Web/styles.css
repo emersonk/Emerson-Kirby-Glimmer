@@ -1,3 +1,7 @@
+/*
+* Code below is for landing / page
+*/
+
 html {
   visibility: hidden
 }
@@ -95,4 +99,11 @@ h1 {
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
   background-color: #DDF8E8;
+}
+
+/*
+Contact page styling
+*/
+.topbars {
+  width = 70px
 }
