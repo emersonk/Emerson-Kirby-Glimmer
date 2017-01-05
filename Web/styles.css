@@ -101,9 +101,61 @@ h1 {
   background-color: #DDF8E8;
 }
 
+
 /*
 Contact page styling
 */
+#contactBody {
+  margin: 0;
+}
 .topbars {
-  width = 70px
+  width: 14.2%;
+  width: calc(100% / 7);
+  height: 75%;
+  display: inline-block;
+  visibility: visible;
+}
+.botbars {
+  width: 14.2%;
+  width: calc(100% / 7);
+  height: 25%;
+  display: inline-block;
+  visibility: visible;
+}
+#white {
+  background: white;
+}
+#yellow {
+  background: #ffff00;
+}
+#lightblue {
+  background: #00ffff;
+}
+#green {
+  background: #00ff00;
+}
+#pink {
+  background: #ff00ff;
+}
+#red {
+  background: #ff0000;
+}
+#blue {
+  background: #0000ff;
+}
+#black2 {
+  background: #171717;
+}
+#contactTitle {
+  visibility: visible;
+  top: 30%;
+  font-family: Bungee Shade;
+  color: black;
+}
+#touchMe {
+  visibility: visible;
+  top: 60%;
+  color: black;
+  font-size: 6.5vw;
+  font-family: sarina;
 }
